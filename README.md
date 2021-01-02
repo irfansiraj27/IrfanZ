@@ -9,7 +9,7 @@ Siapin alat dan bahannya.
 > internet yang memadai, POKOKNYA 4G +
 > aplikasi whatsapp
 > aplikasi termux
-> kopi
+
 ```
 
 ### Cara Installnya
@@ -17,8 +17,8 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Arya274/Arya-Bot
-> cd Arya-Bot
+> git clone https://github.com/irfansiraj27/IrfanZ
+> cd IrfanZ
 > npm i
 > node index.js
 > Tinggal scan qr dah
@@ -48,5 +48,5 @@ Sebelum lu jalanin sc nya install dulu lah.
 ## Special Thanks to
 * [`NUROTOMO`](https://github.com/Nurotomo)
 
-### SOSMED
-* Youtube: Drawl Nag
+
+
