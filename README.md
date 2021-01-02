@@ -1,5 +1,5 @@
 # Bot IrfanZ
-BOT WHATSAPP TERMUX BYE:IrfanZ
+BOT WHATSAPP TERMUX BY:IrfanZ
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
