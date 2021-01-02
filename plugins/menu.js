@@ -2,10 +2,10 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
 
 _Spesial Thanks To:_
-Nurotomo
+Anak Pungut
 
 _Rec Bye:_
-Drawl Nag
+IrfanZ
 
 Owner: Wa.me/62895321033713
 
