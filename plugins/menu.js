@@ -7,7 +7,8 @@ Nurotomo
 _Rec Bye:_
 Drawl Nag
 
-Owner: Wa.me/6288235435804
+Owner: Wa.me/62895321033713
+
 
 *🎥 YouTube:* 
 https://www.youtube.com/c/DrawlNag
