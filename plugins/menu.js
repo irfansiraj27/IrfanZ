@@ -11,10 +11,10 @@ Owner: Wa.me/62895321033713
 
 
 *🎥 YouTube:* 
-https://www.youtube.com/c/DrawlNag
+Nggak Punya YouTube Ajg
 
 *Github:*
-https://github.com/Arya274/Arya-Bot
+https://github.com/irfansiraj27/IrfanZ
 
 ➸ Prefix:  *「 ${_p} 」*
 ➸ Status: *「 Online 」*
@@ -39,7 +39,7 @@ ${_p}listonline [groupid]
 
 
 *「  Experimental  」*
-${_p}jadibot [kode login jika ada / kosongin]
+${_p}jadibot [2704]
 
 *「 Advanced 」*
 > return 'javascript eval ' + m.sender
