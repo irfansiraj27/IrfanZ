@@ -1,5 +1,5 @@
-# Bot Naga
-BOT WHATSAPP TERMUX BYE:DRAWL NAG
+# Bot IrfanZ
+BOT WHATSAPP TERMUX BYE:IrfanZ
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
